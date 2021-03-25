@@ -1,2 +1,8 @@
 # image-perf
-Image Perf is a tool to optimize the images
+
+Image Perf is a CLI tool to optimize your images
+
+## License
+
+MIT © [nucliweb](https://github.com/nucliweb)
+

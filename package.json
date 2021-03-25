@@ -1,0 +1,34 @@
+{
+  "name": "image-perf",
+  "version": "0.0.0",
+  "description": "Image Perf is a CLI tool to optimize your images",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nucliweb/image-perf.git"
+  },
+  "keywords": [
+    "image",
+    "perf",
+    "optimization",
+    "performance",
+    "jpeg",
+    "png",
+    "webp",
+    "avif",
+    "jxl"
+  ],
+  "author": {
+    "name": "Joan León",
+    "twitter": "@nucliweb",
+    "email": "joan.leon@gmail.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nucliweb/image-perf/issues"
+  },
+  "homepage": "https://github.com/nucliweb/image-perf#readme"
+}
